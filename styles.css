@@ -72,8 +72,12 @@
     width:350px;
 }
 .right{
-    border: white solid 1px;
+    display:flex;
     align-items: center; 
     justify-content: center;
     width:500px;
+    font-family:"roboto";
+    color:#e5e7eb;
+    background-color:grey;
+    border-radius: 5px;
 }
